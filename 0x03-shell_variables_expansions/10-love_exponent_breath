@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BATH**LOVE))
+echo $((BREATH**LOVE))
